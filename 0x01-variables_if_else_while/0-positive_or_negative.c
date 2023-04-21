@@ -6,7 +6,7 @@
  * main - print if the number is positive,negative or zero
  * Return: always 0
  */
-int main(void);
+int main(void)
 {
 	int n;
 
