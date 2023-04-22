@@ -8,9 +8,9 @@
  */
 int main(void)
 {
-	int n = 97;
+	int n;
 
-	while '(n <= 122)'
+	while '('n <= 122')'
 	{
 		if '{''('n = 101 || = 113')''}'
 		{
